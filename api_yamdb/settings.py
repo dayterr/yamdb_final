@@ -110,7 +110,6 @@ REST_FRAMEWORK = {
     'PAGE_SIZE': 10
 }
 
-
 SIMPLE_JWT = {
     'ACCESS_TOKEN_LIFETIME': timedelta(days=365),
     'AUTH_HEADER_TYPES': ('Bearer',),
