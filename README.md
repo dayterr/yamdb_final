@@ -34,3 +34,7 @@ ALLOWED_HOSTS – разрешённые хосты
 Ознакомиться с документацией: http://127.0.0.1/redoc/
 
 Адрес: http://178.154.195.129/api/v1/
+
+Использованные технологии: Django REST Framework, Docker, GitHub Actions
+
+Автор: Мария Дайтер – https://github.com/dayterr
