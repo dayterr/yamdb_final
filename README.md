@@ -13,4 +13,6 @@ API для YaMDB. YaMDb содержит отзывы (Review) пользова�
 
 Ознакомиться с документацией: http://127.0.0.1/redoc/
 
+Адрес: http://178.154.195.129/api/v1/
+
 ![example workflow](https://github.com/dayterr/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
